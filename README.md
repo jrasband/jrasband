@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @jrasband
 - 🔬 I'm an MD/PhD candidate in the United States
-<!---
-- 👀 I’m interested in computational biology, computational neuroscience, and Emacs
-- 🌱 I’m currently learning Norwegian (5+ years), Japanese (2 months), and the Julia Programming Language (2+ years)
-- 💞️ I’m looking to collaborate on computational biology, especially computational neuroscience
---->
+- 👀 I’m interested in computational and systems neuroscience, learning optimization, and Emacs
 
 
 <!---
