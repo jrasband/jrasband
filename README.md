@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrasband
-- 🔬 I'm an MD/PhD candidate in the United States
+- 🔬 I'm an MD/PhD student in the United States
 - 👀 I’m interested in computational and systems neuroscience, learning optimization, and Emacs
 
 
